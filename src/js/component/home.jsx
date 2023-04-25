@@ -7,6 +7,7 @@ var destination = document.querySelector("#app");
   
 ReactDOM.render(
     <div>
+		<span>Click on a task to delete it.</span>
         <TodoList/>
     </div>,
     destination

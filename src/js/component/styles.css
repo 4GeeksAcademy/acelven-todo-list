@@ -55,3 +55,10 @@ body {
     background-color: red;
     cursor: pointer;
   }
+
+  span {
+    font-weight: bold;
+    justify-content: center;
+    text-align:justify;
+    font-size: larger;
+  }
